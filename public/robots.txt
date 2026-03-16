@@ -1,0 +1,5 @@
+# robots.txt for luminaweb3.io
+User-agent: *
+Allow: /
+
+Sitemap: https://luminaweb3.io/sitemap.xml
