@@ -105,6 +105,12 @@ export default function RootLayout({
               gtag('config', 'G-KM4H93H2G');
             `}
           </Script>
+          <Script
+            id="sa-dynamic-optimization"
+            strategy="afterInteractive"
+            data-uuid="63b200ad-3a08-4b7a-a1b9-fb8433131e63"
+            src="data:text/javascript;base64,dmFyIHNjcmlwdCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoInNjcmlwdCIpO3NjcmlwdC5zZXRBdHRyaWJ1dGUoIm5vd3Byb2NrZXQiLCAiIik7c2NyaXB0LnNldEF0dHJpYnV0ZSgibml0cm8tZXhjbHVkZSIsICIiKTtzY3JpcHQuc3JjID0gImh0dHBzOi8vZGFzaGJvYXJkLnNlYXJjaGF0bGFzLmNvbS9zY3JpcHRzL2R5bmFtaWNfb3B0aW1pemF0aW9uLmpzIjtzY3JpcHQuZGF0YXNldC51dWlkID0gIjYzYjIwMGFkLTNhMDgtNGI3YS1hMWI5LWZiODQzMzEzMWU2MyI7c2NyaXB0LmlkID0gInNhLWR5bmFtaWMtb3B0aW1pemF0aW9uLWxvYWRlciI7ZG9jdW1lbnQuaGVhZC5hcHBlbmRDaGlsZChzY3JpcHQpOw=="
+          />
         </head>
       )}
       <body
